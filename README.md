@@ -1,16 +1,6 @@
 # todo
+ToDo App Fullstack Development with Flutter, Figma and Firebase
 
-A new Flutter project.
+You can observe to predesign process in Figma
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran Alıntısı](https://user-images.githubusercontent.com/105917287/187682921-62da3b1e-dacf-416d-9b5d-e5b57dc292c9.PNG)
